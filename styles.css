@@ -7,6 +7,7 @@
 .social-icon {
     display: inline-block;
     text-align: left;
+    align-items: left;
 }
 
 body {
