@@ -5,7 +5,8 @@
 }
 
 .social-icon {
-    display: inline-block; /* or block, depending on layout */
+    display: inline-block;
+    position: left;
 }
 
 body {
