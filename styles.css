@@ -4,12 +4,6 @@
     padding: 0;
 }
 
-.social-icon {
-    display: inline-block;
-    text-align: left;
-    align-items: left;
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #f9f9f9;
@@ -77,4 +71,10 @@ img {
 
 .language {
     text-align: left;
+    margin-right: 10px;
+}
+
+.language:last-child {
+margin-right: 0;
+
 }
