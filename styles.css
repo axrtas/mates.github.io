@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+.social-icon {
+    display: inline-block; /* or block, depending on layout */
+}
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f9f9f9;
