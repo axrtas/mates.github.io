@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #cc5cf8;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #f51330;
+  color: #a213f5;
   text-decoration: none;
 }
 
@@ -516,7 +516,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #FC8BC0;
+  color: #e58bfc;
   word-break: break-word;
 }
 
