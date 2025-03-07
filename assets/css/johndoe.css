@@ -1974,29 +1974,29 @@ pre code {
 .table-warning td,
 .table-warning thead th,
 .table-warning tbody + tbody {
-  border-color: #ffc1be;
+  border-color: #f4beff;
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffc6c3;
+  background-color: #fac3ff;
 }
 
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffc6c3;
+  background-color: #eec3ff;
 }
 
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #fdd1d7;
+  background-color: #edd1fd;
 }
 
 .table-danger th,
 .table-danger td,
 .table-danger thead th,
 .table-danger tbody + tbody {
-  border-color: #fbaab5;
+  border-color: #d0aafb;
 }
 
 .table-hover .table-danger:hover {
@@ -2005,7 +2005,7 @@ pre code {
 
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #fcb9c2;
+  background-color: #ecb9fc;
 }
 
 .table-light,
