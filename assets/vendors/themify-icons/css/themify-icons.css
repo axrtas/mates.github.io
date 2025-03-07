@@ -977,6 +977,9 @@
 .ti-instagram:before {
 	content: "\e73d";
 }
+.ti-discord:before {
+    content: "\e7d9";
+}
 .ti-google:before {
 	content: "\e73e";
 }
