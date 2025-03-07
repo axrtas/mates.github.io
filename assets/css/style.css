@@ -11029,42 +11029,6 @@ p {
   min-width: 150px;
 }
 
-.btn-component {
-  position: fixed;
-  top: 140px;
-  right: -225px;
-  z-index: 9999;
-  -webkit-transition: .4s;
-  transition: .4s;
-  padding: 8px 12px;
-  border-radius: 3px 0 0 3px;
-  font-weight: 100;
-}
-
-.btn-component.affix {
-  right: -115px;
-}
-
-.btn-component i {
-  position: relative;
-  display: inline-block;
-  margin-right: 20px;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-.btn-component:hover {
-  right: 0;
-}
-
-.btn-component:hover i {
-  -webkit-transform: translateX(10px);
-      -ms-transform: translateX(10px);
-          transform: translateX(10px);
-  margin-right: -20px;
-  opacity: 0;
-}
-
 .card {
   margin-bottom: 30px;
 }
