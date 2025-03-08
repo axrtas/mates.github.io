@@ -5721,12 +5721,12 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-warning {
   color: #854744;
-  background-color: #ffe7e6;
+  background-color: #f7e6ff;
   border-color: #ffdedc;
 }
 
 .alert-warning hr {
-  border-top-color: #ffc6c3;
+  border-top-color: #ebc3ff;
 }
 
 .alert-warning .alert-link {
@@ -6082,12 +6082,12 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-primary {
   color: #81303a;
-  background-color: #fdd1d7;
+  background-color: #ebd1fd;
 }
 
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
   color: #81303a;
-  background-color: #fcb9c2;
+  background-color: #efb9fc;
 }
 
 .list-group-item-primary.list-group-item-action.active {
@@ -6146,12 +6146,12 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-warning {
   color: #854744;
-  background-color: #ffdedc;
+  background-color: #f6dcff;
 }
 
 .list-group-item-warning.list-group-item-action:hover, .list-group-item-warning.list-group-item-action:focus {
   color: #854744;
-  background-color: #ffc6c3;
+  background-color: #f0c3ff;
 }
 
 .list-group-item-warning.list-group-item-action.active {
@@ -6162,12 +6162,12 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-danger {
   color: #81303a;
-  background-color: #fdd1d7;
+  background-color: #ecd1fd;
 }
 
 .list-group-item-danger.list-group-item-action:hover, .list-group-item-danger.list-group-item-action:focus {
   color: #81303a;
-  background-color: #fcb9c2;
+  background-color: #e0b9fc;
 }
 
 .list-group-item-danger.list-group-item-action.active {
@@ -7142,13 +7142,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #F85C70 !important;
+  background-color: #bc5cf8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #f62b45 !important;
+  background-color: #9d2bf6 !important;
 }
 
 .bg-secondary {
@@ -7182,23 +7182,23 @@ button.bg-info:focus {
 }
 
 .bg-warning {
-  background-color: #FF8882 !important;
+  background-color: #be82ff !important;
 }
 
 a.bg-warning:hover, a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #ff574f !important;
+  background-color: #a34fff !important;
 }
 
 .bg-danger {
-  background-color: #F85C70 !important;
+  background-color: #c45cf8 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #f62b45 !important;
+  background-color: #a82bf6 !important;
 }
 
 .bg-light {
@@ -7270,7 +7270,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #F85C70 !important;
+  border-color: #b35cf8 !important;
 }
 
 .border-secondary {
@@ -7286,11 +7286,11 @@ button.bg-dark:focus {
 }
 
 .border-warning {
-  border-color: #FF8882 !important;
+  border-color: #d982ff !important;
 }
 
 .border-danger {
-  border-color: #F85C70 !important;
+  border-color: #a25cf8 !important;
 }
 
 .border-light {
@@ -10809,19 +10809,19 @@ a.text-info:hover, a.text-info:focus {
 }
 
 .text-warning {
-  color: #FF8882 !important;
+  color: #cb82ff !important;
 }
 
 a.text-warning:hover, a.text-warning:focus {
-  color: #ff3f36 !important;
+  color: #c236ff !important;
 }
 
 .text-danger {
-  color: #F85C70 !important;
+  color: #ab5cf8 !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
-  color: #f51330 !important;
+  color: #9213f5 !important;
 }
 
 .text-light {
@@ -11006,7 +11006,7 @@ p {
   display: block;
   width: 25px;
   height: 1.5px;
-  background-color: #F85C70;
+  background-color: #a75cf8;
 }
 
 .breadcrumb {
@@ -11113,7 +11113,7 @@ p {
   top: 10px;
   padding: 6px 10px;
   width: 100px;
-  background: #F85C70;
+  background: #a75cf8;
   color: #fff;
   font-weight: 400;
   -webkit-transform: rotate(45deg);
@@ -11123,7 +11123,7 @@ p {
 }
 
 .price-card.price-card-requried .num {
-  color: #F85C70;
+  color: #a75cf8;
 }
 
 .portfolio .filters {
@@ -11170,7 +11170,7 @@ p {
 
 .portfolio .filters a.active {
   opacity: 1;
-  background: #F85C70;
+  background: #a75cf8;
   color: #fff;
 }
 
@@ -11267,7 +11267,7 @@ pre .code {
 }
 
 .social-icons .social-link:hover {
-  color: #F85C70;
+  color: #b85cf8;
 }
 
 .navbar {
@@ -11289,7 +11289,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #F85C70 !important;
+  color: #b85cf8 !important;
 }
 
 .navbar .brand {
@@ -11557,7 +11557,7 @@ pre .code {
   content: '';
   width: 20px;
   height: 2px;
-  background: #F85C70;
+  background: #9e5cf8;
   display: block;
   margin-top: 10px;
 }
