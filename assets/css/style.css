@@ -11485,6 +11485,25 @@ pre .code {
 .section.bg-custom-gray {
   background: rgba(242, 244, 247, 0.15);
 }
+.section2.bg-red {
+  background: #f51330;
+}
+
+.about-section2 {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.about-section2 .about-card {
+  padding: 20px; /* Reduced padding */
+  border-right: 1px solid #dee2e6;
+  font-size: 14px; /* Smaller text */
+  line-height: 1.4; /* Adjusted line spacing */
+}
+
+.about-section2 .about-card:last-child {
+  border-right: none;
+}
+
 
 .about-section {
   border-bottom: 1px solid #dee2e6;
