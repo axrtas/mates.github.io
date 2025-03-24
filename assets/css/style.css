@@ -10820,6 +10820,10 @@ a.text-warning:hover, a.text-warning:focus {
   color: #ab5cf8 !important;
 }
 
+.text-gray {
+  color: darkgrey !important;
+}
+
 a.text-danger:hover, a.text-danger:focus {
   color: #9213f5 !important;
 }
